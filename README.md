@@ -67,21 +67,17 @@ Estou gostando muito da área de tecnologia e busco aprender cada vez mais, tant
 
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FeVenancio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<img
+  align="left"
+  height="200px"
+  src="https://github-readme-stats.vercel.app/api?username=FeVenancio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeVenancio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
+<img
+  height="200px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeVenancio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br clear="both"/>
+
 
