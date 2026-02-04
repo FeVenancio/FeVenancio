@@ -65,11 +65,6 @@ Estou gostando muito da área de tecnologia e busco aprender cada vez mais, tant
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeVenancio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeVenancio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4)
 
 
 
